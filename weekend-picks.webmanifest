@@ -1,0 +1,18 @@
+{
+  "name": "週末好去處",
+  "short_name": "週末好去處",
+  "lang": "zh-Hant",
+  "start_url": "./weekend-picks.html",
+  "display": "standalone",
+  "background_color": "#faf8f2",
+  "theme_color": "#173d35",
+  "icons": [
+    {
+      "src": "icons/weekend-picks.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
